@@ -117,6 +117,9 @@ This project demonstrates the power of convolutional neural networks (CNNs) in e
 #### SCREENSHOT:
 - ![Screenshot 2025-01-16 075439](https://github.com/user-attachments/assets/3484f991-3d96-44fa-ba96-8ad66d43d5d7)
 
+- ![Screenshot 2025-01-16 075507](https://github.com/user-attachments/assets/eecd0748-fa60-4a32-b125-f9a862159190)
+
+
 
 ---
 
