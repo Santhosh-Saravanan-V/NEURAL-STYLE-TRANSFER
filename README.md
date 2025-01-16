@@ -105,10 +105,18 @@ This project demonstrates the power of convolutional neural networks (CNNs) in e
 ### *Example*
 #### Input:
 - *Content Image*: A photograph of a serene landscape.
+- ![content](https://github.com/user-attachments/assets/5f83d78b-8d92-414a-8a67-8d9b727b7138)
+
 - *Style Image*: A vibrant painting in Van Gogh’s style.
+- ![style](https://github.com/user-attachments/assets/d4550bf0-9557-4936-ace8-2724e6b39759)
+
 
 #### Output:
-- *Stylized Image*: The serene landscape with textures and colors resembling Van Gogh’s painting.
+- *Stylized Image*:
+- ![stylized_output](https://github.com/user-attachments/assets/f5798a77-d064-4bc3-b959-7dd2a04fd1bd)
+#### SCREENSHOT:
+- ![Screenshot 2025-01-16 075439](https://github.com/user-attachments/assets/3484f991-3d96-44fa-ba96-8ad66d43d5d7)
+
 
 ---
 
