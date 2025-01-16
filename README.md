@@ -1,3 +1,14 @@
+Name : Santhosh Saravanan V
+
+Company : CODTECH IT SOLUTIONS
+
+ID : CT08FGT
+
+Domain : Artificial Intelligence
+
+Duration : January 10 to Febraury 10 2025
+
+
 # Task 3: Neural Style Transfer
 
 ## *About the Project*
